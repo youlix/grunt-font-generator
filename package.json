@@ -1,0 +1,26 @@
+{
+  "name": "grunt-font-generator",
+  "version": "0.0.1",
+  "description": "A grunt task for generating web fonts from SVG files",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youlix/grunt-font-generator.git"
+  },
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web",
+    "font",
+    "svg"
+  ],
+  "author": "youlix <youlix@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "font-carrier": "git+https://github.com/purplebamboo/font-carrier.git"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
